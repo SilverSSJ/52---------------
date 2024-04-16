@@ -1,0 +1,13 @@
+.invalid{
+    border: 1px solid red;
+    }
+    .valid{
+    border: 1px solid green;    
+    }
+    .pass{
+        margin-top: 20px;
+        display: none;
+    }
+    .visible{
+        display: block;
+    }
